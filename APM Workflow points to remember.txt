@@ -1,0 +1,11 @@
+Asset Sentinel Workflow-
+
+1. Asset Identification (Why to Monitor?)
+2. Asset Survey(Steam Turbine-Lube Oil,Gland Seal,Driven Equipment-Gen,Comp,Pump, Instrumentation Availability)
+3. Blue Print Design
+4. DCT Template
+5. Asset Template Creation(Asset Types,Attributes,Fault,Symptoms,Basic Calc)
+6. Demo Asset/Golden Asset/POC Configuration with live connected data
+7. Testing with Customer(UAT)
+8. Bulk Deployment for similar tested asset type-Hierarchy,Tag Maaping,Asset Linking, APR-Model Building,Report Generation
+9. Monitoring Phase
